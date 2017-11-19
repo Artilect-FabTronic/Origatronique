@@ -7,6 +7,7 @@ Credits
 ---
 Arduino:
 - [Arnauld BIGANZOLI](http://tonic.inserm.fr/arnauld-biganzoli-404340.kjsp)
+
 CAO FreeCAD:
 - [Pierrick COUTURIER](https://www.thingiverse.com/arofarn/about)
 
