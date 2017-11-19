@@ -13,5 +13,6 @@ CAO FreeCAD:
 
 License
 ---
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![MIT License](http://rasterweb.net/raster/wp-content/uploads/2011/05/opensource2.png?raw=true "Projet Open Hardware et Open Source by Artilect")](https://opensource.org/licenses/MIT)  
+[Open Hardware](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre)<br/>
+[MIT License](https://opensource.org/licenses/MIT)
