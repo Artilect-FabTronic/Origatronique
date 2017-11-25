@@ -3,6 +3,9 @@ A l'occasion de l'édition [Futurapolis 2017](http://www.futurapolis.com/), la [
 
 Pour cela, nous allons vous présenter un mélange entre l'[origami](https://fr.wikipedia.org/wiki/Origami) et la [mécatronique](https://fr.wikipedia.org/wiki/M%C3%A9catronique), d'où le nom original d'<b>Origatronique</b>.
 
+![Modele oiseau origami](Design/modele_oiseau_origami.jpg)
+
+
 Credits
 ---
 Arduino:
@@ -10,6 +13,10 @@ Arduino:
 
 CAO FreeCAD:
 - [Pierrick COUTURIER](https://www.thingiverse.com/arofarn/about)
+
+Design:
+- [Quentin NUNES](https://www.artilect.fr/section-design-labdesign/)
+
 
 License
 ---
